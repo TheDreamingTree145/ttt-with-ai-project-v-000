@@ -1,4 +1,4 @@
-# Tic Tac Toe with AI
+cd .# Tic Tac Toe with AI
 
 ## Objectives
 
